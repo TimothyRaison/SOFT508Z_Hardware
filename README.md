@@ -10,4 +10,4 @@ CR205 Remote (IR),
 Water sensor,
 PIR sensor,
 A small touchpad,
-ESP32-WROOM-32 Wifi chip,
+ESP32-WROOM-32 Wifi chip
