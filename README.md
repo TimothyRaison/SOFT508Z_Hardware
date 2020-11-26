@@ -1,4 +1,4 @@
-# SOFT508Z_Hardware
+# SOFT508Z_Coursework
 Controlling and using the hardware provided by Plymouth University for the SOFT508Z module
 
 I have benn provided with a Arduino Mega and the following hardware:
