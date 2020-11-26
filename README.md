@@ -11,3 +11,5 @@ Water sensor,
 PIR sensor,
 A small touchpad,
 ESP32-WROOM-32 Wifi chip
+
+Using this Hardware I am going to Make a distributed system across two peices of hardware
